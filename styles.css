@@ -1,0 +1,27 @@
+* {margin: 0;
+padding: 0;
+box-sizing: boder-box;
+}
+
+a{ background-color: chartreuse;}
+body {
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+
+}
+input, 
+button { padding:10px;
+font-size: 16px;
+}
+
+#course-image {
+    height: 300px;
+}
+h1 {
+    font-size: medium;
+}
+
+.first { color: brown;}
+
+#your-name h2 { color:floralwhite;}
